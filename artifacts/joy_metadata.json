@@ -1,0 +1,138 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "phonenumber",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "houseaddress",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "officeaddress",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "walletaddress",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "bestcolor",
+						"type": "string"
+					}
+				],
+				"name": "insert",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "sugar",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "phonenumber",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "houseaddress",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "officeaddress",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "walletaddress",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "bestcolor",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"struct.sol": "joy"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"struct.sol": {
+			"keccak256": "0x3e48ba391413abf7ce80284da0f38301e622e2ab89e56d736ae2e8272b789c80",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://29c8b82d7e805cfc09b298e1f2dba33aba4566b04b8d460df52727ec97c86ade",
+				"dweb:/ipfs/QmPjPqT6PM9M7ZmBSDwoTkQYwHutXp77Q1nDRHmi7bCpab"
+			]
+		}
+	},
+	"version": 1
+}

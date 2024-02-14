@@ -1,0 +1,62 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract blessing{
+
+    mapping(uint => string) public happiness;
+
+    // key value pair
+
+    mapping(uint => string) public tech4dev;
+    
+    // CLASS WORK
+
+    // create a mapping for bank where the users can sumbit account number and amount:
+
+    mapping (uint => uint) public Bank;
+
+    // CLASS WORK
+    // create a mapping called Fawole where the key is an address and the value a uint
+
+    mapping (address => uint) public Fawole;
+
+//create a mapping called techy4dev, the key will be uint and the value an address, let's make this mapping public:
+
+mapping (uint => address) public techy4dev;
+
+// create a mapping for a wallet address with a certain amount in it:
+mapping (uint => uint) public wallet;
+
+mapping (address => uint) favoritenumber;
+
+function set(uint ) public{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

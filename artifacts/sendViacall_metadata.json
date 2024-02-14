@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"sendviasend.sol": "sendViacall"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"sendviasend.sol": {
+			"keccak256": "0x63f61dc09e4b5c21f3c9860c8fcf65506df3ce1308bb84e35fb7f723c75a77e0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://16fbbf2de1eeb0c01752a0a993e2bc408034e5a2dc85d62db10eceb028fb18c1",
+				"dweb:/ipfs/QmRTPfERz3xQFaN6HK82yybQvsfrGME5gyTVP1ogUbPmW4"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"waystoreturnether.sol": "GetBalance"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"waystoreturnether.sol": {
+			"keccak256": "0x4501ecdc566ae48f528f57da4d6107dc2ce4c62f1b6531d92947fe427e888790",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8c784795ba1d2188784d301173904bce915953fe046de4ce7a2c53470094cd9b",
+				"dweb:/ipfs/QmV5vf4XppAczGSFFvDqE3HrMxZ3CN8GZVaQB5hXowBpHm"
+			]
+		}
+	},
+	"version": 1
+}

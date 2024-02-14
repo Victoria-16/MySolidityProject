@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"advancedarray.sol": "Macke"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"advancedarray.sol": {
+			"keccak256": "0xd6da2c1036d4650b2fcafcff3a7bb8451fb85797cbc4c9fe6677968f5aface2c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://55184a683c9c4081deef7820e85a7a71abdc55564b24e9fbc2940ca989e4a605",
+				"dweb:/ipfs/Qmf7q4Zz1jsksjYSHNx5it5MVQyxzVvTSXsL6w5tgt7Eub"
+			]
+		}
+	},
+	"version": 1
+}

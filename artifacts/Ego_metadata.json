@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "sendViacall",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"sendviasend.sol": "Ego"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"sendviasend.sol": {
+			"keccak256": "0x867e8161c47e9758cc57dda917c42d6a62b63b617e30a9a5982794afd4c4cec9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6d75d77809e8fea8c14e5966caf82a09343a3ebf8e7f0ba1a9e9a7a0182e6863",
+				"dweb:/ipfs/QmQJepMsWqfDz22z1nGUYcYSkUutxrcRtGke8cCkYf4zLn"
+			]
+		}
+	},
+	"version": 1
+}
